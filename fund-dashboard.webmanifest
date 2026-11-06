@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Fund Performance Dashboard",
+  "short_name": "Fund Dashboard",
+  "description": "Fund performance dashboard: track portfolio returns, compare recommended funds, and analyze holdings.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2f8",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "fund-dashboard-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "fund-dashboard-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "fund-dashboard-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
